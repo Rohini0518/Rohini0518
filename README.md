@@ -2,59 +2,88 @@
 <h3 align="center">Frontend / Full Stack Developer | React • Node • TypeScript</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps;React+%7C+Node+%7C+TypeScript;Clean+UI+%2B+Performance+focused;Turning+ideas+into+products" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps;React+%7C+Node+%7C+TypeScript;Clean+UI+%2B+Performance+focused;Turning+ideas+into+products" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with 2+ years experience :contentReference[oaicite:0]{index=0}  
-- ⚛️ Strong in **React, Redux, Context API**
-- 🛠️ Backend with **Node.js, Express, REST APIs**
-- 🗄️ Worked with **MongoDB, Firebase, Supabase, GraphQL**
-- 🤖 Integrated **OpenAI APIs** to automate insights
-- 🎯 Focused on **clean UI, performance, and scalable architecture**
+- 💻 Full Stack Developer with 2+ years of experience  
+- ⚛️ Build scalable, component-driven UIs using React  
+- 🛠️ Develop REST APIs and backend services with Node.js & Express  
+- 🗄️ Work across MongoDB, Supabase, Firebase, and GraphQL  
+- 🤖 Integrated OpenAI APIs to automate reporting and insights  
+- 🎯 Focused on performance, clean architecture, and real-world usability  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Frontend**  
+React, Redux, Tailwind CSS, Material UI  
 
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white)
+**Backend**  
+Node.js, Express.js  
 
-### 🔧 Backend & DB
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+**Database**  
+MongoDB, Supabase, Firebase  
 
-### 🧪 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+**Languages**  
+JavaScript, TypeScript, HTML, CSS  
+
+**Tools**  
+Git, Postman, Jest  
 
 ---
+## ✨ Featured Work
+### 🧠 Revise Loop – Knowledge Retention Platform  
+🔗 https://reviseloop.netlify.app/
 
+**Problem**  
+Users forget previously learned concepts due to lack of structured revision.
+
+**Solution**  
+Built a full-stack platform that automates revision cycles using spaced repetition to improve long-term retention.
+
+**What I Did**
+- Designed dynamic UI using React to track learning progress and status  
+- Built backend APIs using Node.js and Supabase for scheduling and data persistence  
+- Implemented spaced repetition algorithm (1, 3, 5, 7, 14 days)  
+- Added overdue tracking and retention indicators for better visibility  
+
+**Impact**
+- Automated revision scheduling, reducing manual tracking effort  
+- Improved consistency in learning and knowledge retention  
+  
+### 📊 Learning Platform  
+🔗 https://vmtraining.netlify.app/vm/vmcourses
+
+**Problem**  
+The platform needed a scalable way to manage learning content, user progress, and engagement while keeping the UI responsive and the data flow efficient.
+
+**Solution**  
+Built a full-stack learning platform using React, Context API, Tailwind CSS, Node.js/Express, and MongoDB, with seamless frontend-backend integration through Axios.
+
+**What I Did**  
+- Developed reusable UI components and a scalable frontend architecture using React and Context API  
+- Integrated backend APIs to handle learning data, user actions, and dynamic updates  
+- Implemented a real-time leaderboard to improve engagement and motivation  
+- Optimized API data flow for better performance and smoother user experience  
+
+**Impact**  
+- Increased course engagement and improved completion rates by 40%  
+- Delivered a responsive, maintainable learning experience for users  
+- Improved overall performance and usability of the platform
+
+---
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/rohini0518"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:rohinipolina0518@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/rohini0518">LinkedIn</a> •
+  <a href="mailto:rohinipolina0518@gmail.com">Email</a>
 </p>
 
 ---
 
-⭐️ From Rohini — building things that actually matter
+⭐️ Building products that are clean, scalable, and actually useful
