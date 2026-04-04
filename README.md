@@ -48,55 +48,6 @@
 
 ---
 
-## ✨ Featured Projects
-
-### 🔹 Revise Loop
-🧠 Knowledge retention platform with intelligent review system  
-⚙️ React + Node.js + Supabase  
-
-👉 https://reviseloop.netlify.app/
-
----
-
-### 🔹 Task Management App
-📋 CRUD-based task tracker with smooth UI  
-⚙️ React + Tailwind + Axios  
-
-👉 https://tasktrackerboard.netlify.app/
-
----
-
-### 🔹 Learning Platform
-📊 Scalable course platform with real-time leaderboard  
-⚙️ React + Context API + Node + MongoDB  
-
-👉 https://vmtraining.netlify.app/vm/vmcourses
-
----
-
-## 💼 Experience
-
-### 🏢 TalentSpotify — Full Stack Developer
-- Built REST APIs & CRUD operations
-- Developed responsive UI using React & MUI
-- Integrated OpenAI APIs to automate reporting
-
-### 🏢 VM Trainings — Frontend Developer
-- Built scalable learning platform
-- Integrated frontend & backend with Axios
-- Improved engagement with leaderboard feature
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohini0518&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohini0518&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
