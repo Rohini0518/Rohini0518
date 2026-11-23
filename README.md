@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with 2+ years of experience  
+- 💻 Full Stack Developer with 3+ years of experience  
 - ⚛️ Build scalable, component-driven UIs using React  
 - 🛠️ Develop REST APIs and backend services with Node.js & Express  
 - 🗄️ Work across MongoDB, Supabase, Firebase, and GraphQL  
