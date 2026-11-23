@@ -18,22 +18,4 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend**  
-React, Redux, Tailwind CSS, Material UI  
-
-**Backend**  
-Node.js, Express.js  
-
-**Database**  
-MongoDB, Supabase, Firebase  
-
-**Languages**  
-JavaScript, TypeScript, HTML, CSS  
-
-**Tools**  
-Git, Postman, Jest 
-
----
 ⭐️ Building products that are clean, scalable, and actually useful
